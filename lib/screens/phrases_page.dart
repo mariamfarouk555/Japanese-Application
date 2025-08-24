@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project/components/phrases.dart';
-//import 'package:toku/components/phrases.dart';
-import '../models/number.dart';
+import '../screens/number.dart';
 
 class PhrasesPage extends StatelessWidget {
   PhrasesPage({super.key});
@@ -82,3 +81,4 @@ class PhrasesPage extends StatelessWidget {
     );
   }
 }
+
