@@ -1,6 +1,7 @@
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:project/models/number.dart';
+import 'package:project/screens/number.dart';
 
 
 class PhrasesItem extends StatelessWidget {
