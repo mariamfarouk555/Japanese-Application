@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:project/components/item.dart';
-//import 'package:toku/components/item.dart';
 import '../models/number.dart';
 
 class FamilyMembersPage extends StatelessWidget {
@@ -91,13 +90,4 @@ class FamilyMembersPage extends StatelessWidget {
       ),
     );
   }
-
-  // List<Widget> getList(List<Number> numbers) {
-  //   List<item> itemList = [];
-  //   for (int i = 0; i < numbers.length; i++) {
-  //     itemList.add(item(number: numbers[i]));
-  //   }
-
-  //   return itemList;
-  // }
 }
