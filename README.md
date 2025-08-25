@@ -12,7 +12,7 @@ The app focuses on teaching: Common phrases , Numbers , Colors , Family members
 2. Listen to the correct pronunciation.
 
 **Numbers Page**
-1-Learn Japanese numbers with text and sound.
+1. Learn Japanese numbers with text and sound.
 
 **Colors Page**
 1. Learn Japanese colors with images and pronunciation.
@@ -53,13 +53,12 @@ In each section:
 - Listen to the correct pronunciation.
 - See images to help with memorization.
 - Practice by repeating and recognizing the words and phrases.
-- Switch between sections anytime from the Home Page.
+
+3. Switch between sections anytime from the Home Page.
 
 ## Sceenshots
 **Home Page**
-<div>
-  <img src="https://raw.githubusercontent.com/mariamfarouk555/Japanese-Application/main/Japanese%20App/HomePage.png" alt="HomePage" width="300"/>
-</div>
+![HomePage](https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/HomePage.png)
 
 **Phrases Page**
 <div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Phrases.png" alt="Phrases" width="300"/> </div>
