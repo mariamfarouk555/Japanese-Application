@@ -90,5 +90,5 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
  Watch the video below to see Japanese App
 
-   [Watch the demo](https://drive.google.com/file/d/1KGuNIo5Ej01HfLfNv5rokfSu8gLT5yNW/view)
+   [Watch the demo](https://drive.google.com/file/d/1xF39aZ6sCAEdgIAY0ZmiZbDjlmFnqg3x/view?usp=sharing)
 
