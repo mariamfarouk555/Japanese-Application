@@ -58,7 +58,7 @@ In each section:
 
 ## Sceenshots
 **Home Page**
-![HomePage](https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/HomePage.png)
+![HomePage](https://raw.githubusercontent.com/mariamfarouk555/Japanese-Application/main/Japanese%20App/HomePage.png)
 
 **Phrases Page**
 <div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Phrases.png" alt="Phrases" width="300"/> </div>
