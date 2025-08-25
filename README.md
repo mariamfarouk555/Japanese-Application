@@ -57,17 +57,24 @@ In each section:
 3. Switch between sections anytime from the Home Page.
 
 ## Sceenshots
-**Home Page**
+
+### Home Page
+
 ![HomePage](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/HomePage.png)
 
-**Phrases Page**
-<div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Phrases.png" alt="Phrases" width="300"/> </div>
+### Numbers Page
 
-**Numbers Page**
-<div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Numbers.png" alt="Numbers" width="300"/> </div>
+![Numbers](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/Numbers.png)
 
-**Colors Page**
-<div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Colors.png" alt="Colors" width="300"/> </div>
+### Colors Page
 
-**Family Members Page**
-<div> <img src="https://github.com/mariamfarouk555/Japanese-Application/blob/main/Japanese%20App/Family%20Members.png" alt="Family Members " width="300"/> </div>
+![Colors](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/Colors.png)
+
+### Family Members Page
+
+![Family Members](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/Family%20Members.png)
+
+### Phrases Page
+
+![Phrases](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/Phrases.png)
+
