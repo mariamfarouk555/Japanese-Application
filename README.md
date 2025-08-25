@@ -24,15 +24,15 @@ The app focuses on teaching: Common phrases , Numbers , Colors , Family members
 
 ## Technologies Used
 
-**Flutter**: 
+**Flutter**
 - Primary framework for building the application.
-**Dart**:
+**Dart**
 - Programming language used with Flutter.
-**Assets**:
+**Assets**
 - Used to manage and display images, sounds, and other static resources in the app.
-**StatelessWidget & StatefulWidget**:
+**StatelessWidget & StatefulWidget**
 - For building reusable and interactive UI components.
-**Basic State Management**:
+**Basic State Management**
 - To handle user interactions and update the UI dynamically.
 
 ## Installation
@@ -77,4 +77,18 @@ In each section:
 ### Phrases Page
 
 ![Phrases](https://github.com/mariamfarouk555/Japanese-Application/blob/master/Japanese%20App/Phrases.png)
+
+### Contact Us
+
+If you have any questions, feedback, or suggestions, feel free to reach out to us at:
+
+ - [Mariam Farouk](mailto:mariamfareed804@gmail.com)
+
+ -  [Maاhmoud Ragab](mailto:eng.m.r.2050@gmail.com)
+
+### Video
+
+ Watch the video below to see Japanese App
+
+   [Watch the demo](https://drive.google.com/file/d/1KGuNIo5Ej01HfLfNv5rokfSu8gLT5yNW/view)
 
