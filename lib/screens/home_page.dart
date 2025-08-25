@@ -1,14 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:project/Screens/colors_page.dart';
-import 'package:project/Screens/family_members.dart';
-import 'package:project/Screens/numbers_page.dart';
-import 'package:project/Screens/phrases_page.dart';
+import 'package:project/screens/colors_page.dart';
+import 'package:project/screens/family_members.dart';
+import 'package:project/screens/numbers_page.dart';
+import 'package:project/screens/phrases_page.dart';
 import 'package:project/components/category.dart';
-// import 'package:toku/Screens/colors_page.dart';
-// import 'package:toku/Screens/family_members.dart';
-// import 'package:toku/Screens/numbers_page.dart';
-// import 'package:toku/Screens/phrases_page.dart';
-// import 'package:toku/components/category.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
