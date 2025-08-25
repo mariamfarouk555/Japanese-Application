@@ -72,7 +72,7 @@ class NumbersPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          backgroundColor: Colors.brown[200],
+        backgroundColor: const Color(0XFF49332A),
         title: const Text('Numbers', style: TextStyle(color: Colors.white)),
       ),
       body: ListView.builder(
@@ -80,7 +80,7 @@ class NumbersPage extends StatelessWidget {
         itemBuilder: (context, index) {
           return Item(
             sound: numbers[index].sound,
-            color: Color(0xffFF9F3B),
+            color: const Color(0xffFF9F3B),
             number: numbers[index],
           );
         },
