@@ -84,7 +84,7 @@ If you have any questions, feedback, or suggestions, feel free to reach out to u
 
  - [Mariam Farouk](mailto:mariamfareed804@gmail.com)
 
- -  [Maاhmoud Ragab](mailto:eng.m.r.2050@gmail.com)
+ -  [Mahmoud Ragab](mailto:eng.m.r.2050@gmail.com)
 
 ### Video
 
