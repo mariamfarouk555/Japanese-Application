@@ -141,7 +141,27 @@ class AuthCubit extends Cubit<AuthState> {
     }
   }
 
-  // Logout user
+  Future<void> updateUserImage(String newPath) async {
+    try {
+      if (state is AuthAuthenticated) {
+        final user = (state as AuthAuthenticated).userData;
+        final uid = user?["uid"];
+        await _firestore.collection("users").doc(uid).update({
+          "imagePath": newPath,
+        });
+
+        final prefs = await SharedPreferences.getInstance();
+        await prefs.setString("imagePath", newPath);
+        final updatedUser = Map<String, dynamic>.from(user!);
+        updatedUser["imagePath"] = newPath;
+
+        emit(AuthAuthenticated(updatedUser));
+      }
+    } catch (e) {
+      emit(AuthError("Error updating profile image: $e"));
+    }
+  }
+
   Future<void> logout() async {
     await _auth.signOut();
 
